@@ -1,0 +1,8 @@
+% Overview
+The MPU6050 is a widely used six-axis motion tracking device with an integrated 3-axis gyroscope and 3-axis accelerometer.
+It can provide a variety of motion information including acceleration, angular velocity, temperature, etc., and is widely used in flight control, 
+motion detection and other fields. The MPU6050 communicates with the microcontroller through an I2C interface and supports a variety of motion processing algorithms.
+
+
+
+
